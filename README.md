@@ -11,4 +11,4 @@ Third-year **Software Engineering** student specialising in **Python** and **Jav
 Python · Java · Git · SQL
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/abdala-mohamed-862987243/)
+[LinkedIn](https://www.linkedin.com/in/abdala-mohamed-862987243/) · [Email](mailto:abdalamohamed12435@gmail.com)
