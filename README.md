@@ -3,7 +3,7 @@
 Third-year **Software Engineering** student specialising in **Python** and **Java**, looking for software engineering opportunities.
 
 ## Projects
-- 💰 **[Slyce Personal Finance](https://github.com/Abdalamohamed7906/Slyce-Personal-Finance)**: Personal finance app for tracking income, expenses and budgets, built with Python.
+- 💰 **[Slyce](https://github.com/Abdalamohamed7906/Slyce-Personal-Finance)** *(in progress)*: Full-stack budgeting app that splits a paycheck using the 50/30/20 rule. Python, FastAPI, JWT auth, SQLite, LLM-generated tips.
 - 🏗️ **[Software Architecture & Design](https://github.com/Abdalamohamed7906/Software-Architecture-and-Design)**: Java project applying software architecture principles and design patterns.
 - 🖥️ **[Operating Systems Labs](https://github.com/Abdalamohamed7906/Operating-Systems-Labs)**: Lab work covering processes, scheduling and memory management.
 
