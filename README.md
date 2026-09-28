@@ -8,7 +8,7 @@ Third-year **Software Engineering** student specialising in **Python** and **Jav
 - 🖥️ **[Operating Systems Labs](https://github.com/Abdalamohamed7906/Operating-Systems-Labs)**: Lab work covering processes, scheduling and memory management.
 
 ## Tech
-Python · Java · Git · SQL
+Python · FastAPI · Java · SQL · SQLite · REST APIs · Git
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/abdala-mohamed-862987243/) · [Email](mailto:abdalamohamed12435@gmail.com)
