@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Abdala 👋
 
-<!--
-**Abdalamohamed7906/Abdalamohamed7906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year **Software Engineering** student specialising in **Python** and **Java**, looking for software engineering opportunities.
 
-Here are some ideas to get you started:
+## Projects
+- 💰 **[Slyce Personal Finance](https://github.com/Abdalamohamed7906/Slyce-Personal-Finance)**: Personal finance app for tracking income, expenses and budgets, built with Python.
+- 🏗️ **[Software Architecture & Design](https://github.com/Abdalamohamed7906/Software-Architecture-and-Design)**: Java project applying software architecture principles and design patterns.
+- 🖥️ **[Operating Systems Labs](https://github.com/Abdalamohamed7906/Operating-Systems-Labs)**: Lab work covering processes, scheduling and memory management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · Java · Git · SQL
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/abdala-mohamed-862987243/)
